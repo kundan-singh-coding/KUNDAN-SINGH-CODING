@@ -6,7 +6,7 @@
     <a href="https://soumyasahu.live/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" style="vertical-align:center" /></a>
     <a href="https://twitter.com/soumyap24717773" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.linkedin.com/in/soumya-prakash-sahu-68886921b/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-    <a href="https://github.com/SOUMYA-CODING" target="_blank"><img alt="" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=FFFFFF&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://github.com/kundan-singh-coding" target="_blank"><img alt="" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=FFFFFF&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
 <hr>
@@ -40,9 +40,9 @@
 <hr>
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SOUMYA-CODING&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SOUMYA-CODING&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMYA-CODING&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kundan-singh-coding&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kundan-singh-coding&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kundan-singh-coding&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SOUMYA-CODING&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kundan-singh-coding&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
